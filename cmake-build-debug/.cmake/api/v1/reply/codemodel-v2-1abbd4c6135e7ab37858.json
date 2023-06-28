@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hotel_reservation_finnish_cplus",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hotel_reservation_finnish_cplus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hotel_reservation_finnish_cplus-Debug-9a2ca92d49ab6cb8901b.json",
+					"name" : "hotel_reservation_finnish_cplus",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/LeMac/Code_projects/Git/GitHub/public/C++/hotel_reservation_finnish_cplus/cmake-build-debug",
+		"source" : "/Users/LeMac/Code_projects/Git/GitHub/public/C++/hotel_reservation_finnish_cplus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
